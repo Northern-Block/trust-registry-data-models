@@ -1,0 +1,13 @@
+{
+    "organizationName": "Example Registry Organization",
+    "publicIdentifiers": {
+        "publicDID": "did:example:registry123456789abcdefghi",
+        "website": "https://example-registry-website.com",
+        "phoneNumber": "+1-234-567-8901",
+        "emailAddress": "contact@example-registry.com"
+    },
+    "trustRegistryInformation": {
+        "trustRegistryName": "Example Trust Registry Name",
+        "trustRegistryDescription": "This is a description of the example trust registry, detailing its purpose and scope."
+    }
+}
