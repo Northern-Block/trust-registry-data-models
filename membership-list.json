@@ -1,0 +1,15 @@
+{
+    "memberName": "Example Member Name",
+    "publicIdentifiers": {
+        "publicDID": "did:example:123456789abcdefghi",
+        "website": "https://example-member-website.com",
+        "phoneNumber": "+1-234-567-8901",
+        "emailAddress": "contact@example-member.com"
+    },
+    "membershipInformation": {
+        "businessAddress": "123 Example Street, Example City, EX 12345",
+        "registrationNumber": "REG123456",
+        "country": "Example Country",
+        "primaryContactName": "John Doe"
+    }
+}
